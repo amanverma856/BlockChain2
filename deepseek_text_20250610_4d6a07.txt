@@ -1,0 +1,18 @@
+BLOCKCHAIN PLATFORM COMPARISON ASSIGNMENT
+=========================================
+
+CONTENTS:
+1. blockchain_comparison.csv - Detailed comparison table
+2. blockchain_comparison.pdf - Formatted PDF version of table
+3. analysis_report.docx - Complete 200-word analysis
+4. analysis_report.pdf - PDF version of report
+
+INSTRUCTIONS:
+1. Extract all files
+2. Open the comparison table (CSV or PDF)
+3. Read the analysis report for recommendations
+4. Reference files as needed
+
+CREATED BY: [Your Name]
+DATE: [Submission Date]
+COURSE: [Course Name]

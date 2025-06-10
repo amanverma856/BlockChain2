@@ -1,0 +1,7 @@
+Feature,Ethereum (Public),Hyperledger Fabric (Private),R3 Corda (Consortium)
+Consensus Mechanism,Proof-of-Stake (PoS),Pluggable (e.g., Raft),Notary-based
+Permission Model,Open,Permissioned,Permissioned
+Throughput (TPS),"15-30 (1000+ with L2)",1000+,"100-1,000"
+Smart Contracts,"Solidity/Vyper","Go/Java/Node.js","Kotlin/Java"
+Token Support,"Native (ETH) + ERC tokens",No native token,Optional
+Key Advantage,EVM ecosystem,Channel-based privacy,Legal contract support

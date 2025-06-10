@@ -1,0 +1,4 @@
+Blockchain Name,Type,Consensus Mechanism,Permission Model,Speed (TPS),Smart Contract Support,Token Support,Typical Use Case,Notable Technical Feature
+Ethereum,Public,Proof-of-Stake (PoS),Open,"15-30 (1000+ with L2)","Y (Solidity, Vyper)","Native (ETH) + ERC tokens","DeFi, NFTs, DApps","EVM compatibility, L2 rollups"
+Hyperledger Fabric,Private,"Pluggable (e.g., Raft)",Permissioned,"1,000+","Y (Go, Java, Node.js)",No native token,"Enterprise supply chains","Channel-based privacy, modular architecture"
+R3 Corda,Consortium,Notary-based,Permissioned,"100-1,000","Y (Kotlin, Java)",Optional,"Financial services, inter-bank apps","UTXO model, legal prose integration"
